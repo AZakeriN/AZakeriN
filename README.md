@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AZakeriN
+- 👋 Hi, I’m @AZakeriN, you may call me AliJaan :)
 - 👀 I’m interested in Sport, Waliking, Movies, Music
 - 🌱 I’m currently learning Data scinece to dive into the data ocean!
 - 💞️ I’m looking to collaborate on data science projects, from A to Z!
